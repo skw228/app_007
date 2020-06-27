@@ -1,0 +1,23 @@
+#name: "lili"
+#Name: "lili"
+
+#info1: {"name": "lili","age": "18"}
+
+#info2:
+#  name: "lili"
+#  age: "18"
+
+# -----列表----
+# yaml数组 -：代表列表
+#data:
+#  - "lili"
+#  - "女"
+#
+#python 列表
+#data1: ["nana":"男"]
+#
+#json格式 {"info":[{"name":"张三"},{"name":"李四"}]}
+
+info:
+  - name: "张三"
+  - name: "李四"
